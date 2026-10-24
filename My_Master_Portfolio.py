@@ -16,7 +16,7 @@ with st.sidebar:
     st.write("Special thanks to my Masterclass Coach for the coding rules!")
 
 # STEP 3: MAIN PAGE HEADLINES
-st.title("🚀 My Python & AI Tech Lab")
+st.title("🚀 PythonSnake-Fab's AI & Tech Lab")
 st.subheader("Welcome! I am a 9-year-old developer showcasing my top inventions.")
 st.write("I spent 10 weeks learning how to build game physics engines, cryptographic tools, and computer vision models.")
 

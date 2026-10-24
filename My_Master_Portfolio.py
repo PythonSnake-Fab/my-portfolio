@@ -13,7 +13,6 @@ with st.sidebar:
     st.write("**Language:** Python 3")
     st.write("**Specialty:** AI & Game Math")
     st.markdown("---")
-    st.write("Special thanks to my Masterclass Coach for the coding rules!")
 
 # STEP 3: MAIN PAGE HEADLINES
 st.title("🚀 PythonSnake-Fab's AI & Tech Lab")
